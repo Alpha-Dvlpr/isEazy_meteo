@@ -1,0 +1,9 @@
+disabled_rules:
+    - trailing_whitespace
+
+excluded:
+    - Pods
+    - isEazy meteoTests
+    - isEazy meteoUITests
+
+line_length: 150

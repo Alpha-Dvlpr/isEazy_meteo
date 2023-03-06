@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  isEazy meteo
+
+  Created by Aarón Granado Amores on 6/3/23.
+  
+*/
+
+"alpha.dvlpr.isEazy.meteo.strings.base.info"   = "Info";
+"alpha.dvlpr.isEazy.meteo.strings.base.accept" = "Aceptar";
+"alpha.dvlpr.isEazy.meteo.strings.base.retry"  = "Reintentar";
+
+
+"alpha.dvlpr.isEazy.meteo.strings.permissions.button" = "Acceso a ubicación";
+"alpha.dvlpr.isEazy.meteo.strings.permissions.disclaimer" = "La aplicación necesita acceso a la ubicación para mostrar los datos meteorológicos.";
