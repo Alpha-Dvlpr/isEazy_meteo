@@ -13,7 +13,7 @@ La app se compone de dos pantallas:
 Consideraciones sobre el código:
   - Se ha utilizado el patrón de diseño MVC aunque por costumbre al nombrar las clases se llamen como en el patrón MVVM (aunque dependiento del programador podrá decir que la app realmente es MVVM)
   - El mapeado de datos del JSON se ha realizado utilizando las librerías propias de Swift
-  - Se ha traducido la aplicación a los idiomas inglés, español, francés e italiano (en caso de seleccionar alemás por ejemplo, se mostrará la app en inglés)
+  - Se ha traducido la aplicación a los idiomas inglés, español, francés e italiano (en caso de seleccionar alemán por ejemplo, se mostrará la app en inglés)
   - Se utiliza el idioma de la app para enviarlo junto a los parámetros de la llamada a la API
   - Las interfaces se adaptan al tipo de dispositivo (iPhone o iPad) para mostrar los datos de la mejor manera posible
   - No se han utilizado archivos .storyboard ni .xib, todo el desarrollo de las interfaces se ha hecho de manera programática
